@@ -208,7 +208,7 @@
   flex-direction: column;
   padding: 4px;
   width: 200px;
-  height: 200px;
+  height: 260px;
   flex-wrap: wrap;
   border: #84b868 1px solid;
   border-radius: 10px;
@@ -238,7 +238,7 @@
   width: 80%;
 }
 .content > h5 {
-  font-family: Dosis;
+  font-family: nunito sans;
   font-weight: lighter;
 }
 .services-container {
