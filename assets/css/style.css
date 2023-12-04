@@ -147,6 +147,7 @@
   border-radius: 100px;
   transition: all 0.3s ease-in-out;
   cursor: pointer;
+  margin-bottom: 1rem;
 }
 .head-btn-container > .head-btn-box:hover {
   background-color: #314427;
