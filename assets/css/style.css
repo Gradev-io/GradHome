@@ -140,17 +140,7 @@
   justify-content: center;
   align-items: center;
 }
-.head-btn-container > .head-btn-box {
-  padding: 15px;
-  width: max-content;
-  background-color: #4d6b3d;
-  border-radius: 100px;
-  transition: all 0.3s ease-in-out;
-  cursor: pointer;
-}
-.head-btn-container > .head-btn-box:hover {
-  background-color: #314427;
-}
+
 .head-btn-box > a {
   text-decoration: none;
   font-family: Arial;
